@@ -3,6 +3,7 @@ Whitepaper outline for the 0xRacing DAO Structure
 
 ** Living Document : Under Construction **
 
+![0xRacing Logo](https://github.com/0xRacing/Branding/blob/master/ic_oxr.png?raw=true)
 
 ## High Level
 With Ethereum (Ether) seeking to be the money of the internet, the union of Ethereum and eSports (topically Simulator racing) is inevitable. While existing eSports offer new opportunities for reach and brand exposure, we see online sim racing with the like of iRacing, Assetto Corsa, F1 2020, and countless other as offering unique opportunities that can parallel their real life counterparts. A brand can use existing platforms such as Twitch, Youtube, and other social platforms for eSports / gaming reach, but online racing with in-game / in-sim branding exposure offers an all new brand experience. 
@@ -19,6 +20,6 @@ Each driver to join the 0xRacing DAO will have their own DAO, creating a mesh ne
 
 To visualize how this will work:
 
-{graphic image}
+![0xRacing DAO](https://github.com/0xRacing/Branding/blob/master/0xracing_dao.png?raw=true)
 
 This structure enables members of the core 0xRacing DAO to govern drivers, token issuance, use of DAO funds, and more. While also enabling the core 0xRacing DAO to participate in each drivers DAO governance. The DAO of DAOs enables flexible branding, allowing the core 0xRacing DAO (team) to generate it's own brand value, while enabling the same for each driver. Driver can this also use their DAO for more localized opportunities such as on Twitch or Youtube, within their own community / fanbase.
