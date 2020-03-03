@@ -12,6 +12,8 @@ For 2020, [Coca-Cola has announced a multiyear deal to headline sponsor](https:/
 
 Countless professional race car drivers from multiple series have publicly stated their use of iRacing as a core component of their training programs. This includes the likes of Dale Earnhardt Jr (NASCAR), Lando Norris (F1), Max Verstappen (F1), Sage Karam (Indycar), Stoffel Vandoorne (Formula E), and Tony Stewart (NASCAR).
 
+Within the current eSports ecosystem, [100 Thieves](https://100thieves.com/) has shown the power in bringing branding, content creators, eSports, and community engadgement. With a heavy emphasis on empowering creators, [exclusive merch drops](https://100thieves.com/blogs/lookbooks/numbers-collection), and recent launch of their 100 Thieves Cash App compound with headline sponsor of their HQ building, select partnerships for eSports team rooms, and more. Showing the growing opportunities in the eSports vertical.
+
 
 ## Objectives
 0xRacing will use the DAO standard to organize a digital race team on the Ethereum Blockchain. This will enable full participation, value capture, and governance by members. The 0xRacing DAO will issue tokenized sponsorship opportunities, digital collectibles, tokenized merchandize, and manage team drivers. 
