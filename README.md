@@ -36,7 +36,7 @@ Further research is being conducted into this growing ecosystem, with announceme
 
 Each driver to join the 0xRacing DAO will have their own DAO, creating a mesh network of DAOs, with equal participation. 
 
-To visualize how this will work:
+To visualize how the 0xRacing Mesh can work:
 
 ![0xRacing DAO](https://github.com/0xRacing/Branding/blob/master/0xracing_dao.png?raw=true)
 
