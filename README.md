@@ -14,6 +14,13 @@ Countless professional race car drivers from multiple series have publicly state
 
 Within the current eSports ecosystem, [100 Thieves](https://100thieves.com/) has shown the power in bringing branding, content creators, eSports, and community engagement. With a heavy emphasis on empowering creators, [exclusive merch drops](https://100thieves.com/blogs/lookbooks/numbers-collection), and recent launch of their 100 Thieves Cash App compound with headline sponsor of their HQ building, select partnerships for eSports team rooms, and more. Showing the growing opportunities in the eSports vertical.
 
+*03/14/2020*
+
+With recent unfortunate global events driven by coronavirus, nearly every sport / motorsport has become indefinitely delayed. Though there has been a massive uptick in professional drivers and sanctioning bodies looking to use digial sim racing as an alternate means of racing during this global crisis. 
+
+Every action and purpose needs to be economically driven, so we see this DAO structure as a new means of helping us stay connected globally while continuing to (digitally) enjoy the sports we once did. The 0xRacing team has been seeking out charitable organizations to help drive awareness of leveraging our means of sim racing. We've recently made some request for helping in seeking out and possibly organizing a DAO to coordinate ethereum based donations to support charities providing assitance and resources as we globally combat coronavirus. https://twitter.com/0xRacing/status/1238961132334985216
+
+
 ### Tokenized Sponsorships + Collectibles
 0xRacing will leverage the ERC-721 token standard to issue and manage sponsorship opportunities. Each token will hold unique value for use during its given application. This will be redeemable to the 0xRacing team for use of sponsorship opportunities. Using the ERC-721 standard means instant access and use of marketplaces such as OpenSea.
 
