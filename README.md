@@ -21,6 +21,7 @@ With recent unfortunate global events driven by coronavirus, nearly every sport 
 Every action and purpose needs to be economically driven, so we see this DAO structure as a new means of helping us stay connected globally while continuing to (digitally) enjoy the sports we once did. The 0xRacing team has been seeking out charitable organizations to help drive awareness of leveraging our means of sim racing. We've recently made some request for helping in seeking out and possibly organizing a DAO to coordinate ethereum based donations to support charities providing assitance and resources as we globally combat coronavirus. https://twitter.com/0xRacing/status/1238961132334985216
 
 *03/17/2020*
+
 Over the prior weekend, countless professional drivers across various racing leagues joined the digital eSports world competing in alternative races to their postponed / canceled real life counterparts. 
 
 Some of larger note: 
