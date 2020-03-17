@@ -20,6 +20,16 @@ With recent unfortunate global events driven by coronavirus, nearly every sport 
 
 Every action and purpose needs to be economically driven, so we see this DAO structure as a new means of helping us stay connected globally while continuing to (digitally) enjoy the sports we once did. The 0xRacing team has been seeking out charitable organizations to help drive awareness of leveraging our means of sim racing. We've recently made some request for helping in seeking out and possibly organizing a DAO to coordinate ethereum based donations to support charities providing assitance and resources as we globally combat coronavirus. https://twitter.com/0xRacing/status/1238961132334985216
 
+*03/17/2020*
+Over the prior weekend, countless professional drivers across various racing leagues joined the digital eSports world competing in alternative races to their postponed / canceled real life counterparts. 
+
+Some of larger note: 
+
+- Lando Norris (McLaren F1) live streamed on Twitch with over 70k live viewers https://www.dexerto.com/entertainment/lando-norris-twitch-record-f1-cancels-aus-grand-prix-1341664 
+
+- Max Verstappen (Red Bull Racing F1) https://www.independent.co.uk/sport/motor-racing/formula1/esports-f1-we-are-the-race-max-verstappen-lando-norris-verloce-coronavirus-a9404016.html
+
+- Dale Earnhardt Jr (Retired NASCAR Cup, Xfinity Team Owner : JR Motorsports) https://nascar.nbcsports.com/2020/03/15/dale-jr-william-byron-josh-williams-nascar-iracing-atlant-motor-speedway-race/
 
 ### Tokenized Sponsorships + Collectibles
 0xRacing will leverage the ERC-721 token standard to issue and manage sponsorship opportunities. Each token will hold unique value for use during its given application. This will be redeemable to the 0xRacing team for use of sponsorship opportunities. Using the ERC-721 standard means instant access and use of marketplaces such as OpenSea.
